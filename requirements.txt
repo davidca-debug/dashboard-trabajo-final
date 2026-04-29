@@ -2,3 +2,7 @@ streamlit
 pandas
 matplotlib
 seaborn
+folium
+streamlit-folium
+geopandas
+openpyxl
